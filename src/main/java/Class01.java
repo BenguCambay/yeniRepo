@@ -7,9 +7,11 @@ public class Class01 {
         System.out.println(x+y);
         System.out.println("Versiyon bir icin islemler tamam");
         //Versiyon 2 calismalari
-
         int z = 4;
         System.out.println(x+y+z);
+        //Versiyon 3
+        System.out.println("V3 kodlari");
+
 
     }
 }
